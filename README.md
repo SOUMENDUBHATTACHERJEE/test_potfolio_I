@@ -1,2 +1,2 @@
 # test_potfolio_I
-this is test to create my first portfolio
+this is test project to create my first portfolio
